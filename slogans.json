@@ -1,0 +1,25 @@
+[{"id": "001",
+  "title": "npm install everything",
+  "colour": "yellow",
+  "slogan": [
+    {"title": "NPM", "css": "largest boldest tight"},
+    {"title": "INSTALL", "css": "larger bold tight"},
+    {"title": "EVERYTHING", "css": "largest boldest tight"}]
+  },
+  {"id": "002",
+  "title": "undefined is not a function",
+  "colour": "blue",
+  "slogan": [
+    {"title": "undefined", "css": "largest boldest tight"},
+    {"title": "is", "css": "larger bold tight"},
+    {"title": "not", "css": "larger bold tight"},
+    {"title": "a", "css": "larger bold tight"},
+    {"title": "function", "css": "largest boldest tight"}]
+  },
+  {"id": "003",
+  "title": "GIT ADD .",
+  "colour": "pink",
+  "slogan": [
+    {"title": "GIT ADD .", "css": "largest boldest tight"}
+  ]
+  }]
