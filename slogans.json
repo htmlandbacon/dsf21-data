@@ -30,4 +30,42 @@
     {"title": "UNDEFINED", "css": "largest boldest tight"},
     {"title": "UNDEFINED", "css": "largest boldest tight"},
     {"title": "UNDEFINED", "css": "largest boldest tight"}
-  ]}]
+  ]},
+  {"id": "005",
+  "title": "SUDO KILL -15 2",
+  "colourtext": "text-white",
+  "colour": "black",
+  "slogan": [
+    {"title": "SUDO", "css": "largest text-white boldest tight"},
+    {"title": "KILL", "css": "larger text-white boldest tight"},
+    {"title": "-15", "css": "larger text-white boldest tight"},
+    {"title": "2", "css": "large text-white boldest tight"}
+  ]
+  },
+  {"id": "006",
+  "title": "technical debt fear",
+  "colour": "orange",
+  "slogan": [
+    {"title": "TECHNICAL", "css": "largest boldest tight"},
+    {"title": "DEBT", "css": "larger boldest tight"},
+    {"title": "FEAR", "css": "largest boldest tight"}
+  ]
+  },
+  {"id": "007",
+  "title": "solve everything with javascript",
+  "colour": "pink",
+  "slogan": [
+    {"title": "SOLVE", "css": "larger boldest tight"},
+    {"title": "EVERYTHING", "css": "largest boldest tight"},
+    {"title": "WITH", "css": "larger boldest tight"},
+    {"title": "JAVASCRIPT", "css": "largest boldest tight"}
+  ]
+  },
+  {"id": "008",
+  "title": "econnrefused",
+  "colourtext": "text-white",
+  "colour": "brown",
+  "slogan": [
+    {"title": "ECONNREFUSED", "css": "large text-white boldest tight"}
+  ]
+  }]
