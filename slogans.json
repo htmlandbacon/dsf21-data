@@ -68,4 +68,13 @@
   "slogan": [
     {"title": "ECONNREFUSED", "css": "large text-white boldest tight"}
   ]
+  },
+  {"id": "009",
+  "title": "build test deploy",
+  "colour": "blue",
+  "slogan": [
+    {"title": "BUILD", "css": "largest boldest tight"},
+    {"title": "TEST", "css": "largest boldest tight"},
+    {"title": "DEPLOY", "css": "largest boldest tight"}
+  ]
   }]
