@@ -77,4 +77,47 @@
     {"title": "TEST", "css": "largest boldest tight"},
     {"title": "DEPLOY", "css": "largest boldest tight"}
   ]
-  }]
+  },
+  {"id": "010",
+  "title": "write tests write code ?",
+  "colour": "black",
+  "colourtext": "text-white",
+  "slogan": [
+    {"title": "WRITE TESTS", "css": "large boldest text-white tight"},
+    {"title": "WRITE CODE", "css": "large boldest text-white tight"},
+    {"title": "?", "css": "largest boldest text-white tight"}
+  ]
+  },
+  {"id": "011",
+  "title": "log.console",
+  "colour": "yellow",
+  "slogan": [
+    {"title": "log.console", "css": "largest boldest tight"}
+  ]
+  },
+  {"id": "012",
+  "title": "this site users cookies",
+  "colour": "grey",
+  "slogan": [
+    {"title": "THIS SITE", "css": "large boldest"},
+    {"title": "USES", "css": "larger boldest"},
+    {"title": "COOKIES", "css": "largest boldest tight"}
+  ]
+  },
+  {"id": "013",
+  "title": "git blame",
+  "colour": "orange",
+  "slogan": [
+    {"title": "GIT", "css": "largest boldest"},
+    {"title": "BLAME", "css": "larger boldest"},
+    {"title": "YOU", "css": "large boldest tight"}
+  ]
+  },
+  {"id": "014",
+  "title": "no lonley if",
+  "colour": "blue",
+  "slogan": [
+    {"title": "no-lonely-if.md", "css": "larger boldest"}
+  ]
+  }
+]
