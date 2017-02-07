@@ -119,5 +119,14 @@
   "slogan": [
     {"title": "no-lonely-if.md", "css": "larger boldest"}
   ]
+  },
+  {"id": "015",
+  "title": "use console.log responsibly",
+  "colour": "black",
+  "slogan": [
+    {"title": "USE", "css": "text-white larger boldest tight"},
+    {"title": "CONSOLE.LOG", "css": "text-white larger boldest tight"},
+    {"title": "RESPONSIBLY", "css": "text-white larger boldest tight"}
+  ]
   }
 ]
