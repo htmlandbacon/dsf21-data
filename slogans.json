@@ -123,10 +123,23 @@
   {"id": "015",
   "title": "use console.log responsibly",
   "colour": "black",
+  "colourtext": "text-white",
   "slogan": [
     {"title": "USE", "css": "text-white larger boldest tight"},
     {"title": "CONSOLE.LOG", "css": "text-white larger boldest tight"},
     {"title": "RESPONSIBLY", "css": "text-white larger boldest tight"}
+  ]
+  },
+  {"id": "016",
+  "title": "I hate Angular with the passion of a thousand burning suns",
+  "colour": "yellow",
+  "slogan": [
+    {"title": "I HATE", "css": "large boldest tight"},
+    {"title": "ANGULAR", "css": "largest boldest tight"},
+    {"title": "WITH THE", "css": "large boldest tight"},
+    {"title": "PASSION OF", "css": "large boldest tight"},
+    {"title": "A THOUSAND", "css": "large boldest tight"},
+    {"title": "BURNING SUNS", "css": "large boldest tight"}
   ]
   }
 ]
